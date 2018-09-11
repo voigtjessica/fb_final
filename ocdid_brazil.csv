@@ -1,0 +1,110 @@
+State,ocd_id,district_type,title
+Pará,country:br/chamber-ed:pa,NATIONAL_LEGISLATIVE,Deputado
+Goiás,country:br/chamber-ed:go,NATIONAL_LEGISLATIVE,Deputado
+Rio Grande do Sul,country:br/chamber-ed:rs,NATIONAL_LEGISLATIVE,Deputado
+Sergipe,country:br/chamber-ed:se,NATIONAL_LEGISLATIVE,Deputado
+Acre,country:br/chamber-ed:ac,NATIONAL_LEGISLATIVE,Deputado
+Mato Grosso do Sul,country:br/chamber-ed:ms,NATIONAL_LEGISLATIVE,Deputado
+Federal District,country:br/chamber-ed:df,NATIONAL_LEGISLATIVE,Deputado
+Santa Catarina,country:br/chamber-ed:sc,NATIONAL_LEGISLATIVE,Deputado
+Roraima,country:br/chamber-ed:rr,NATIONAL_LEGISLATIVE,Deputado
+Amazonas,country:br/chamber-ed:am,NATIONAL_LEGISLATIVE,Deputado
+Paraná,country:br/chamber-ed:pr,NATIONAL_LEGISLATIVE,Deputado
+Alagoas,country:br/chamber-ed:al,NATIONAL_LEGISLATIVE,Deputado
+Pernambuco,country:br/chamber-ed:pe,NATIONAL_LEGISLATIVE,Deputado
+Maranhão,country:br/chamber-ed:ma,NATIONAL_LEGISLATIVE,Deputado
+Rio Grande do Norte,country:br/chamber-ed:rn,NATIONAL_LEGISLATIVE,Deputado
+Ceará,country:br/chamber-ed:ce,NATIONAL_LEGISLATIVE,Deputado
+Espírito Santo,country:br/chamber-ed:es,NATIONAL_LEGISLATIVE,Deputado
+Bahia,country:br/chamber-ed:ba,NATIONAL_LEGISLATIVE,Deputado
+São Paulo,country:br/chamber-ed:sp,NATIONAL_LEGISLATIVE,Deputado
+Tocantins,country:br/chamber-ed:to,NATIONAL_LEGISLATIVE,Deputado
+Paraíba,country:br/chamber-ed:pb,NATIONAL_LEGISLATIVE,Deputado
+Mato Grosso,country:br/chamber-ed:mt,NATIONAL_LEGISLATIVE,Deputado
+Piauí,country:br/chamber-ed:pi,NATIONAL_LEGISLATIVE,Deputado
+Amapá,country:br/chamber-ed:ap,NATIONAL_LEGISLATIVE,Deputado
+Rondônia,country:br/chamber-ed:ro,NATIONAL_LEGISLATIVE,Deputado
+Rio de Janeiro,country:br/chamber-ed:rj,NATIONAL_LEGISLATIVE,Deputado
+Minas Gerais,country:br/chamber-ed:mg,NATIONAL_LEGISLATIVE,Deputado
+Goiás,country:br/fed:go,REGIONAL_LEGISLATIVE,Deputado do estado
+Tocantins,country:br/fed:to,REGIONAL_LEGISLATIVE,Deputado do estado
+Amazonas,country:br/fed:am,REGIONAL_LEGISLATIVE,Deputado do estado
+Federal District,country:br/fed:df,REGIONAL_LEGISLATIVE,Deputado do estado
+Piauí,country:br/fed:pi,REGIONAL_LEGISLATIVE,Deputado do estado
+Minas Gerais,country:br/fed:mg,REGIONAL_LEGISLATIVE,Deputado do estado
+Amapá,country:br/fed:ap,REGIONAL_LEGISLATIVE,Deputado do estado
+Rondônia,country:br/fed:ro,REGIONAL_LEGISLATIVE,Deputado do estado
+Espírito Santo,country:br/fed:es,REGIONAL_LEGISLATIVE,Deputado do estado
+Santa Catarina,country:br/fed:sc,REGIONAL_LEGISLATIVE,Deputado do estado
+Pernambuco,country:br/fed:pe,REGIONAL_LEGISLATIVE,Deputado do estado
+Paraná,country:br/fed:pr,REGIONAL_LEGISLATIVE,Deputado do estado
+Sergipe,country:br/fed:se,REGIONAL_LEGISLATIVE,Deputado do estado
+Mato Grosso,country:br/fed:mt,REGIONAL_LEGISLATIVE,Deputado do estado
+Mato Grosso do Sul,country:br/fed:ms,REGIONAL_LEGISLATIVE,Deputado do estado
+Ceará,country:br/fed:ce,REGIONAL_LEGISLATIVE,Deputado do estado
+Maranhão,country:br/fed:ma,REGIONAL_LEGISLATIVE,Deputado do estado
+Rio Grande do Sul,country:br/fed:rs,REGIONAL_LEGISLATIVE,Deputado do estado
+Acre,country:br/fed:ac,REGIONAL_LEGISLATIVE,Deputado do estado
+Rio Grande do Norte,country:br/fed:rn,REGIONAL_LEGISLATIVE,Deputado do estado
+São Paulo,country:br/fed:sp,REGIONAL_LEGISLATIVE,Deputado do estado
+Roraima,country:br/fed:rr,REGIONAL_LEGISLATIVE,Deputado do estado
+Bahia,country:br/fed:ba,REGIONAL_LEGISLATIVE,Deputado do estado
+Rio de Janeiro,country:br/fed:rj,REGIONAL_LEGISLATIVE,Deputado do estado
+Paraíba,country:br/fed:pb,REGIONAL_LEGISLATIVE,Deputado do estado
+Pará,country:br/fed:pa,REGIONAL_LEGISLATIVE,Deputado do estado
+Alagoas,country:br/fed:al,REGIONAL_LEGISLATIVE,Deputado do estado
+Mato Grosso,country:br/fed:mt,REGIONAL_EXEC,Governador do estado
+Paraíba,country:br/fed:pb,REGIONAL_EXEC,Governador do estado
+Paraná,country:br/fed:pr,REGIONAL_EXEC,Governador do estado
+Minas Gerais,country:br/fed:mg,REGIONAL_EXEC,Governador do estado
+Rondônia,country:br/fed:ro,REGIONAL_EXEC,Governador do estado
+Sergipe,country:br/fed:se,REGIONAL_EXEC,Governador do estado
+Bahia,country:br/fed:ba,REGIONAL_EXEC,Governador do estado
+Amazonas,country:br/fed:am,REGIONAL_EXEC,Governador do estado
+Rio Grande do Sul,country:br/fed:rs,REGIONAL_EXEC,Governador do estado
+São Paulo,country:br/fed:sp,REGIONAL_EXEC,Governador do estado
+Santa Catarina,country:br/fed:sc,REGIONAL_EXEC,Governador do estado
+Mato Grosso do Sul,country:br/fed:ms,REGIONAL_EXEC,Governador do estado
+Espírito Santo,country:br/fed:es,REGIONAL_EXEC,Governador do estado
+Alagoas,country:br/fed:al,REGIONAL_EXEC,Governador do estado
+Rio Grande do Norte,country:br/fed:rn,REGIONAL_EXEC,Governador do estado
+Rio de Janeiro,country:br/fed:rj,REGIONAL_EXEC,Governador do estado
+Federal District,country:br/fed:df,REGIONAL_EXEC,Governador do estado
+Roraima,country:br/fed:rr,REGIONAL_EXEC,Governador do estado
+Maranhão,country:br/fed:ma,REGIONAL_EXEC,Governador do estado
+Goiás,country:br/fed:go,REGIONAL_EXEC,Governador do estado
+Piauí,country:br/fed:pi,REGIONAL_EXEC,Governador do estado
+Pará,country:br/fed:pa,REGIONAL_EXEC,Governador do estado
+Pernambuco,country:br/fed:pe,REGIONAL_EXEC,Governador do estado
+Acre,country:br/fed:ac,REGIONAL_EXEC,Governador do estado
+Amapá,country:br/fed:ap,REGIONAL_EXEC,Governador do estado
+Ceará,country:br/fed:ce,REGIONAL_EXEC,Governador do estado
+Tocantins,country:br/fed:to,REGIONAL_EXEC,Governador do estado
+República Federativa do Brasil,country:br,NATIONAL_EXEC,Presidente
+Pernambuco,country:br/senate-ed:pe,NATIONAL_LEGISLATIVE,Senador
+Acre,country:br/senate-ed:ac,NATIONAL_LEGISLATIVE,Senador
+Paraíba,country:br/senate-ed:pb,NATIONAL_LEGISLATIVE,Senador
+São Paulo,country:br/senate-ed:sp,NATIONAL_LEGISLATIVE,Senador
+Espírito Santo,country:br/senate-ed:es,NATIONAL_LEGISLATIVE,Senador
+Maranhão,country:br/senate-ed:ma,NATIONAL_LEGISLATIVE,Senador
+Rio Grande do Sul,country:br/senate-ed:rs,NATIONAL_LEGISLATIVE,Senador
+Bahia,country:br/senate-ed:ba,NATIONAL_LEGISLATIVE,Senador
+Rondônia,country:br/senate-ed:ro,NATIONAL_LEGISLATIVE,Senador
+Ceará,country:br/senate-ed:ce,NATIONAL_LEGISLATIVE,Senador
+Rio Grande do Norte,country:br/senate-ed:rn,NATIONAL_LEGISLATIVE,Senador
+Pará,country:br/senate-ed:pa,NATIONAL_LEGISLATIVE,Senador
+Paraná,country:br/senate-ed:pr,NATIONAL_LEGISLATIVE,Senador
+Amapá,country:br/senate-ed:ap,NATIONAL_LEGISLATIVE,Senador
+Sergipe,country:br/senate-ed:se,NATIONAL_LEGISLATIVE,Senador
+Alagoas,country:br/senate-ed:al,NATIONAL_LEGISLATIVE,Senador
+Piauí,country:br/senate-ed:pi,NATIONAL_LEGISLATIVE,Senador
+Santa Catarina,country:br/senate-ed:sc,NATIONAL_LEGISLATIVE,Senador
+Minas Gerais,country:br/senate-ed:mg,NATIONAL_LEGISLATIVE,Senador
+Tocantins,country:br/senate-ed:to,NATIONAL_LEGISLATIVE,Senador
+Amazonas,country:br/senate-ed:am,NATIONAL_LEGISLATIVE,Senador
+Mato Grosso do Sul,country:br/senate-ed:ms,NATIONAL_LEGISLATIVE,Senador
+Federal District,country:br/senate-ed:df,NATIONAL_LEGISLATIVE,Senador
+Mato Grosso,country:br/senate-ed:mt,NATIONAL_LEGISLATIVE,Senador
+Rio de Janeiro,country:br/senate-ed:rj,NATIONAL_LEGISLATIVE,Senador
+Roraima,country:br/senate-ed:rr,NATIONAL_LEGISLATIVE,Senador
+Goiás,country:br/senate-ed:go,NATIONAL_LEGISLATIVE,Senador
